@@ -1,4 +1,4 @@
-# eeglab_DSP #
+# Processing EEG Signal #
 
 In this project, I employed EEGLAB to process EEG signal from a subject in a resting-wakeful state with their eyes opened and closed. 
 
